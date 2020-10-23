@@ -1,0 +1,19 @@
+.table {
+  height: 500px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+.table tr {
+  display: flex;
+  justify-content: space-between;
+}
+
+.table td {
+  padding: 0.2rem;
+}
+
+.table tr {
+  background-color: #f4f4f4;
+  border-bottom: 10px solid white;
+  padding-right: 2px;
+}
