@@ -2,9 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## General info
+## Covid cases tracker
 
-Covid cases tracker
 Demo: https://covid-4c7c8.web.app/
 
 ## Technologies
